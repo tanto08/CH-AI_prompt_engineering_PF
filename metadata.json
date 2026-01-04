@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow AI",
+  "description": "Automated technical and end-user documentation generator using code analysis.",
+  "requestFramePermissions": []
+}
